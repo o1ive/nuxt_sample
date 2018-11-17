@@ -14,6 +14,6 @@ footer {
 }
 ​ .dark {
   background-color: #000;
-  color: rgb(228, 222, 222);
+  color: rgb(22, 222, 222);
 }
 </style>
